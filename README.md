@@ -11,22 +11,22 @@
   <a src="https://www.typescriptlang.org/">
    <img align="center" alt="Gustavo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   </a>
-  <a src="https://pt-br.reactjs.org/">
+  <a href="https://pt-br.reactjs.org/">
     <img align="center" alt="Gustavo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </a>
-  <a src="https://redux.js.org/">
+  <a href="https://redux.js.org/">
     <img align="center" alt="Gustavo-Redux" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   </a>
-  <a src="https://nodejs.org/en/">
+  <a href="https://nodejs.org/en/">
       <img align="center" alt="Gustavo-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   </a>
-  <a src="https://www.w3schools.com/html/">
+  <a href="https://www.w3schools.com/html/">
     <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </a>
-  <a src="https://www.w3schools.com/css/">
+  <a href="https://www.w3schools.com/css/">
     <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
-  <a src="https://getbootstrap.com/">
+  <a href="https://getbootstrap.com/">
     <img align="center" alt="Gustavo-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   </a>
 
