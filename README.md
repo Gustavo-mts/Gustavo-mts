@@ -32,6 +32,8 @@
   <a href="https://getbootstrap.com/" target="_blank">
     <img align="center" alt="Gustavo-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   </a>
+  <img align="center" alt="Gustavo-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+
 
 </div>
   
