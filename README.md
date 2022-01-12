@@ -1,10 +1,5 @@
-## Hi, Gustavo here.
-<div>
-  <a href="https://github.com/Gustavo-mts">
-  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-mts&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
-#### Tecnologias utilizadas:
+
+#### Tecnologies:
 
 <div style="display: inline_block"><br>
   <a href="https://www.w3schools.com/html/" target="_blank">
