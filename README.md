@@ -27,7 +27,7 @@
     <img align="center" alt="Gustavo-Redux" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   </a>
   <a href="https://nextjs.org/" target="_blank">
-    <img align="center" alt="Gustavo-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+    <img align="center" alt="Gustavo-Redux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
   </a>
   <a href="https://nodejs.org/en/" target="_blank">
       <img align="center" alt="Gustavo-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
