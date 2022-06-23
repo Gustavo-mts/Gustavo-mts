@@ -36,10 +36,10 @@
       <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   </a><img />
   <a href="https://www.mongodb.com/" target="_blank">
-      <img align="center" alt="Gustavo-HTML" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+      <img align="center" alt="Gustavo-HTML" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
-      <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+      <img align="center" alt="Gustavo-HTML" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   </a>      
 </div>
   
