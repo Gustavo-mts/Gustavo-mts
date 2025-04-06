@@ -100,11 +100,11 @@ Me chamo Gustavo Martins, tenho 24 anos e sou cearense. Atuo como desenvolvedor 
 />
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
+    alt="Express" 
+    title="Express"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
 />
 <img 
     align="left" 
