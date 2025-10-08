@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Gustavo Martins
 
-**`Desenvolvedor FullStack`**
+**`Full Stack Developer`**
 
-Me chamo Gustavo Martins, tenho 24 anos e sou cearense. Atuo como desenvolvedor há pelo menos três anos e estou finalizando o curso de Sistemas de Informação na Univerisadade Federal do Ceará. Sou um curioso da área de tecnologia, principalmente no que tange ao desenvolvimento de sistemas e costumo compartilhar um pouco do que estudo no [LinkedIn](https://www.linkedin.com/in/gustavomartins-dev/) e no [Medium](https://medium.com/@gm357191).
+My name is Gustavo Martins, I’m 24 years old and from Ceará, Brazil. I’ve been working as a developer for almost four years and I’m finishing my degree in Information Systems at the Federal University of Ceará. I’m deeply curious about technology, especially system development, and I often share what I learn on LinkedIn and Medium.
 
 <br/>
 
