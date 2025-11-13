@@ -2,7 +2,7 @@
 
 **`Full Stack Developer`**
 
-My name is Gustavo Martins, I’m 24 years old and from Ceará, Brazil. I’ve been working as a developer for almost four years and I’m finishing my degree in Information Systems at the Federal University of Ceará. I’m deeply curious about technology, especially system development, and I often share what I learn on LinkedIn and Medium.
+My name is Gustavo Martins, I’m 25 years old and from Ceará, Brazil. I’ve been working as a developer for almost four years and I’m finishing my degree in Information Systems at the Federal University of Ceará. I’m deeply curious about technology, especially system development, and I often share what I learn on LinkedIn and Medium.
 
 <br/>
 
